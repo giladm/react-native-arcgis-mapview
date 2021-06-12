@@ -18,10 +18,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidgalindo/react-native-arcgis-mapview.git"
+    "url": "git+https://github.com/giladm/react-native-arcgis-mapview.git"
   },
   "bugs": {
-    "url": "https://github.com/davidgalindo/react-native-arcgis-mapview/issues"
+    "url": "https://github.com/giladm/react-native-arcgis-mapview/issues"
   },
-  "homepage": "https://github.com/davidgalindo/react-native-arcgis-mapview#readme"
+  "homepage": "https://github.com/giladm/react-native-arcgis-mapview#readme"
 }
